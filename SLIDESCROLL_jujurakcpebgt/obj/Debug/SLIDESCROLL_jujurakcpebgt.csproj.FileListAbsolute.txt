@@ -1,0 +1,10 @@
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\bin\Debug\SLIDESCROLL_jujurakcpebgt.exe.config
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\bin\Debug\SLIDESCROLL_jujurakcpebgt.exe
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\bin\Debug\SLIDESCROLL_jujurakcpebgt.pdb
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\obj\Debug\SLIDESCROLL_jujurakcpebgt.csproj.AssemblyReference.cache
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\obj\Debug\SLIDESCROLL_jujurakcpebgt.Form1.resources
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\obj\Debug\SLIDESCROLL_jujurakcpebgt.Properties.Resources.resources
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\obj\Debug\SLIDESCROLL_jujurakcpebgt.csproj.GenerateResource.cache
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\obj\Debug\SLIDESCROLL_jujurakcpebgt.csproj.CoreCompileInputs.cache
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\obj\Debug\SLIDESCROLL_jujurakcpebgt.exe
+D:\XRPL2_ARIFZHA_RESKI\DDK3_buRosy\SLIDESCROLL_jujurakcpebgt\obj\Debug\SLIDESCROLL_jujurakcpebgt.pdb
